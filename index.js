@@ -1,1 +1,3 @@
-function theBeatlesPlay()
+function theBeatlesPlay(player, instruments) {
+  
+}
