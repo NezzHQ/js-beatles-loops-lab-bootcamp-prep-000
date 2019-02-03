@@ -1,17 +1,1 @@
-function theBeatlesPlay(musicians, instruments) {
-  var musicians = [];
-  for (var i = 0; i < musicians.length; i ++) {
-    array.push(musicians[i] + ' plays' + instruments[i]);
-  }
-  re
-}
-
-
-
-  for (var i = 0; i < musicians.length; i++) {
-  	array.push(musicians[i] + ' plays ' + instruments[i]);
-  }
-  return array;
-}
-
-
+function theBeatlesPlay()
